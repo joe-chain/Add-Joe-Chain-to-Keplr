@@ -1,6 +1,6 @@
-# How to add Stargaze Testnet to wallets
+# How to add Joe-Chain to wallets
 
-You can follow these steps in Google Chrome, Brave browser, or any other browser which supports wallet extension(Keplr, Cosmostation, Leap, etc).
+You can follow these steps in Google Chrome, Brave browser, or any other browser which supports wallet extension (Keplr).
 
 ## Keplr
 
